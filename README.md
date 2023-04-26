@@ -8,3 +8,9 @@
 + Pass: root
 * Network Access
 + IP Address: 0.0.0.0/0
+
+# Library
++ npm install crypto-js
++ npm install jsonwebtoken
++ npm install stripe
++ npm install cors
